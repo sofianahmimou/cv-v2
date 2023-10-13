@@ -1,0 +1,78 @@
+body {
+     background-color:white;
+}
+p {
+     font-style:Tahoma;
+     font-family: monospace;
+     font-size:larger;
+     font-family:monospace;
+}
+.for-two{
+     background-color:white;
+     color: grey;
+     width: 100px;
+     border-width: 6px;
+     border-style: dotted none none;
+}
+hr {
+     color: gray;
+     background-color: white;
+     width: 1431px;
+     border-width: 3px;
+     border-style: dotted none none;
+}
+.class-1{
+     height:50px;
+     width: 200px;
+     font-size:0.7em;
+     background-color:#50C878;
+     color:white;
+     font-weight:bold;
+     border-style:none;
+     border-radius: 30px;
+     cursor: pointer;
+     border-top-style: none;
+     font-size: large;
+}
+input{
+     height:33px;
+     width:120px;
+     font-size:0.7em;
+     background-color:#208de0;
+     color: white;
+     font-weight:bold;
+     border-style: none;
+     border-radius:35px;
+     cursor: pointer;
+     border-top-style:none;
+     font-size: large;
+}
+.v1{
+     background-color:#208de0;
+     font-size: medium;
+     border-radius: 50px;
+     height: 35px;
+     width:70px;
+     font-weight: bold;
+     color: white;
+     font-size:medium;
+     text-align:center;
+     
+}
+h1 {
+     font-size: xx-large;
+     font-style: initial;
+     font-family: monospace;
+}
+h2 {
+     font-style: initial;
+     font-size: xx-large;
+     font-family:monospace;
+     color:#50C878;
+}
+h3 {
+     font-size: xx-large;
+     color: #50C878;
+     font-style: initial;
+     font-family: monospace;
+}
